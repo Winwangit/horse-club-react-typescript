@@ -27,28 +27,28 @@ const Team = ()=>{
             <p className={style.team_member_position}>CEO, Founder</p>
             <div className={style.team_member_socials}>
               <a
-                href="https://github.com/mbuvi254"
+                href="https://github.com/Winwangit"
                 target="_blank"
                 className={style.team_member_social_url}
               >
               <FaInstagram />
               </a>
               <a
-                href="https://github.com/mbuvi254"
+                href="https://github.com/Winwangit"
                 target="_blank"
                 className={style.team_member_social_url}
               >
                 <FaTwitter />
               </a>
               <a
-                href="https://github.com/mbuvi254"
+                href="https://github.com/Winwangit"
                 target="_blank"
                 className={style.team_member_social_url}
               >
              <FaFacebook />
               </a>
               <a
-                href="https://github.com/mbuvi254"
+                href="https://github.com/Winwangit"
                 target="_blank"
                 className={style.team_member_social_url}
               >
@@ -71,28 +71,28 @@ const Team = ()=>{
             <p className={style.team_member_position}>horse groomer</p>
             <div className={style.team_member_socials}>
               <a
-                href="https://github.com/mbuvi254"
+                href="https://github.com/Winwangit"
                 target="_blank"
                 className={style.team_member_social_url}
               >
               <FaInstagram />
               </a>
               <a
-                href="https://github.com/mbuvi254"
+                href="https://github.com/Winwangit"
                 target="_blank"
                 className={style.team_member_social_url}
               >
                        <FaTwitter />
               </a>
               <a
-                href="https://github.com/mbuvi254"
+                href="https://github.com/Winwangit"
                 target="_blank"
                 className={style.team_member_social_url}
               >
              <FaFacebook />
               </a>
               <a
-                href="https://github.com/mbuvi254"
+                href="https://github.com/Winwangit"
                 target="_blank"
                 className={style.team_member_social_url}
               >
@@ -114,28 +114,28 @@ const Team = ()=>{
             <p className={style.team_member_position}>IT Support</p>
             <div className={style.team_member_socials}>
               <a
-                href="https://github.com/mbuvi254"
+                href="https://github.com/Winwangit"
                 target="_blank"
                 className={style.team_member_social_url}
               >
               <FaInstagram />
               </a>
               <a
-                href="https://github.com/mbuvi254"
+                href="https://github.com/Winwangit"
                 target="_blank"
                 className={style.team_member_social_url}
               >
                        <FaTwitter />
               </a>
               <a
-                href="https://github.com/mbuvi254"
+                href="https://github.com/Winwangit"
                 target="_blank"
                 className={style.team_member_social_url}
               >
              <FaFacebook />
               </a>
               <a
-                href="https://github.com/mbuvi254"
+                href="https://github.com/Winwangit"
                 target="_blank"
                 className={style.team_member_social_url}
               >
@@ -158,28 +158,28 @@ const Team = ()=>{
             <p className={style.team_member_position}>horse trainer</p>
             <div className={style.team_member_socials}>
               <a
-                href="https://github.com/mbuvi254"
+                href="https://github.com/Winwangit"
                 target="_blank"
                 className={style.team_member_social_url}
               >
               <FaInstagram />
               </a>
               <a
-                href="https://github.com/mbuvi254"
+                href="https://github.com/Winwangit"
                 target="_blank"
                 className={style.team_member_social_url}
               >
                        <FaTwitter />
               </a>
               <a
-                href="https://github.com/mbuvi254"
+                href="https://github.com/Winwangit"
                 target="_blank"
                 className={style.team_member_social_url}
               >
              <FaFacebook />
               </a>
               <a
-                href="https://github.com/mbuvi254"
+                href="https://github.com/Winwangit"
                 target="_blank"
                 className={style.team_member_social_url}
               >
@@ -202,28 +202,28 @@ const Team = ()=>{
             <p className={style.team_member_position}>Human Resource</p>
             <div className={style.team_member_socials}>
               <a
-                href="https://github.com/mbuvi254"
+                href="https://github.com/Winwangit"
                 target="_blank"
                 className={style.team_member_social_url}
               >
               <FaInstagram />
               </a>
               <a
-                href="https://github.com/mbuvi254"
+                href="https://github.com/Winwangit"
                 target="_blank"
                 className={style.team_member_social_url}
               >
                        <FaTwitter />
               </a>
               <a
-                href="https://github.com/mbuvi254"
+                href="https://github.com/Winwangit"
                 target="_blank"
                 className={style.team_member_social_url}
               >
              <FaFacebook />
               </a>
               <a
-                href="https://github.com/mbuvi254"
+                href="https://github.com/Winwangit"
                 target="_blank"
                 className={style.team_member_social_url}
               >
@@ -246,28 +246,28 @@ const Team = ()=>{
             <p className={style.team_member_position}>horse sanctuary</p>
             <div className={style.team_member_socials}>
               <a
-                href="https://github.com/mbuvi254"
+                href="https://github.com/Winwangit"
                 target="_blank"
                 className={style.team_member_social_url}
               >
               <FaInstagram />
               </a>
               <a
-                href="https://github.com/mbuvi254"
+                href="https://github.com/Winwangit"
                 target="_blank"
                 className={style.team_member_social_url}
               >
                        <FaTwitter />
               </a>
               <a
-                href="https://github.com/mbuvi254"
+                href="https://github.com/Winwangit"
                 target="_blank"
                 className={style.team_member_social_url}
               >
              <FaFacebook />
               </a>
               <a
-                href="https://github.com/mbuvi254"
+                href="https://github.com/Winwangit"
                 target="_blank"
                 className={style.team_member_social_url}
               >

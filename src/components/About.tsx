@@ -16,7 +16,7 @@ const About = ()=>{
           et nemo odio laudantium modi nihil vel consectetur magnam excepturi
           quis quasi enim omnis incidunt veniam aut esse, error impedit dolores.
         </p>
-        <a href="https://github.com/mbuvi254" target="_blank" className={style.about_cta}
+        <a href="https://github.com/Winwangit" target="_blank" className={style.about_cta}
           >get started now</a>
       </div>
       <div className={style.about_img_wrapper}>
