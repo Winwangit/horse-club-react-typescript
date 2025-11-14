@@ -4,7 +4,7 @@ const Footer = ()=>{
     <footer className={style.footer}>
       <p className={style.footer_text}>
         Built with lots of &hearts; by
-        <a href="https://github.com/Winwangit" target="_blank"> Daniel Mulatya</a>
+        <a href="https://github.com/Winwangit" target="_blank"> Winfred Wanjiku</a>
       </p>
     </footer>
     )
